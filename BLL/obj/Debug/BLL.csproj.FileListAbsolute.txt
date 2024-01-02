@@ -1,0 +1,9 @@
+D:\Adv .Net\Project\BLL\bin\Debug\BLL.dll
+D:\Adv .Net\Project\BLL\bin\Debug\BLL.pdb
+D:\Adv .Net\Project\BLL\bin\Debug\DAL.dll
+D:\Adv .Net\Project\BLL\bin\Debug\DAL.pdb
+D:\Adv .Net\Project\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Adv .Net\Project\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Adv .Net\Project\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Adv .Net\Project\BLL\obj\Debug\BLL.dll
+D:\Adv .Net\Project\BLL\obj\Debug\BLL.pdb
